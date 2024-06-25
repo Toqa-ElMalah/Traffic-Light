@@ -1,12 +1,7 @@
-/*
- * LCD.c
- *
- * Created: 10/20/2023 3:07:29 PM
- *  Author: eman
- */ 
 #include "LCD.h"
-#define  F_CPU 8000000UL
 #include <util/delay.h>
+
+#define  F_CPU 8000000UL
 
 void LCD_int (char Data_port)
 {
