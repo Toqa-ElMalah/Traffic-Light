@@ -1,11 +1,3 @@
-/*
- * LCD.h
- *
- * Created: 10/20/2023 3:07:45 PM
- *  Author: eman
- */ 
-
-
 #ifndef LCD_H_
 #define LCD_H_
 
