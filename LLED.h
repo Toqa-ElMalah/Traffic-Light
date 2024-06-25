@@ -1,11 +1,3 @@
-/*
- * LLED.h
- *
- * Created: 10/23/2023 5:25:30 PM
- *  Author: DELL
- */ 
-
-
 #ifndef LED_H_
 #define LED_H_
 
