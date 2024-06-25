@@ -1,13 +1,8 @@
-/*
- * Traffic_Light.c
- *
- * Created: 10/26/2023 2:26:34 PM
- *  Author: DELL
- */ 
-
 #include <avr/io.h>
 #include <avr/interrupt.h>
+
 #define F_CPU 8000000UL
+
 #include "util/delay.h"
 #include "LLED.h"
 #include "Timer.h"
