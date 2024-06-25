@@ -1,11 +1,3 @@
-/*
- * LED.c
- *
- * Created: 10/16/2023 5:13:06 PM
- *  Author: DELL
- */ 
-
-
 #include "DIO.h"
 
 void LED_vInit (unsigned char portname,unsigned char pinnumber){
